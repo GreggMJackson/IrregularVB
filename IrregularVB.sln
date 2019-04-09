@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+VisualStudioVersion = 15.0.28010.2050
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{F184B08F-C81C-45F6-A57F-5ABD9991F28F}") = "IrregularVB", "IrregularVB\IrregularVB.vbproj", "{DC55E3ED-3E8C-44E8-847D-190ED236AA07}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{DC55E3ED-3E8C-44E8-847D-190ED236AA07}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{DC55E3ED-3E8C-44E8-847D-190ED236AA07}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{DC55E3ED-3E8C-44E8-847D-190ED236AA07}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{DC55E3ED-3E8C-44E8-847D-190ED236AA07}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {F1B6D1CF-59C0-4E8D-A5EC-DA3146E6BC95}
+	EndGlobalSection
+EndGlobal
